@@ -8,6 +8,7 @@ This project manages and analyzes hospital data, including patient records, doct
 ## Dataset Used
 https://github.com/pranjalzaware/project_medical_data_history/blob/main/admission.csv
 https://github.com/pranjalzaware/project_medical_data_history/blob/main/doctors.csv
+https://github.com/pranjalzaware/project_medical_data_history/blob/main/patients.csv
 
 
 
